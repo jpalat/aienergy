@@ -1,0 +1,44 @@
+baseURL = "/"
+title = "AI Environmental Impact"
+theme = "docsy"
+
+[params]
+description = "Understanding the environmental impact of artificial intelligence systems, from energy consumption to carbon footprint."
+
+[params.ui]
+navbar_logo = true
+sidebar_menu_compact = true
+
+[[params.links.developer]]
+name = "GitHub"
+url = "https://github.com/yourusername/ai-environmental-impact"
+icon = "fab fa-github"
+
+[[params.versions]]
+name = "Latest"
+url = "/"
+
+[[menu.main]]
+name = "Documentation"
+weight = 20
+url = "/docs/"
+
+[[menu.main]]
+name = "US Impact"
+weight = 30
+url = "/docs/us-impact/"
+
+[[menu.main]]
+name = "Workflow Analysis"
+weight = 40
+url = "/docs/workflow/"
+
+[[menu.main]]
+name = "Data Centers"
+weight = 50
+url = "/docs/datacenter/"
+
+[module]
+proxy = "direct"
+[[module.imports]]
+path = "github.com/google/docsy"

@@ -1,0 +1,38 @@
+# config.yaml
+baseURL: "/"
+title: "AI Environmental Impact"
+theme: "docsy"
+
+params:
+  description: >
+    Understanding the environmental impact of artificial intelligence systems,
+    from energy consumption to carbon footprint.
+  
+  ui:
+    navbar_logo: true
+    sidebar_menu_compact: true
+    
+  links:
+    developer:
+      - name: GitHub
+        url: https://github.com/jpalat/aienergy
+        icon: fab fa-github
+        
+  versions:
+    - name: Latest
+      url: /
+
+menu:
+  main:
+    - name: Documentation
+      weight: 20
+      url: /docs/
+    - name: US Impact
+      weight: 30
+      url: /docs/us-impact/
+    - name: Workflow Analysis
+      weight: 40
+      url: /docs/workflow/
+    - name: Data Centers
+      weight: 50
+      url: /docs/datacenter/

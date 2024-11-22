@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on AI Environmental Impact</title>
+    <link>http://192.168.1.138:1313/docs/</link>
+    <description>Recent content in Docs on AI Environmental Impact</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://192.168.1.138:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>US National Impact</title>
+      <link>http://192.168.1.138:1313/docs/us-impact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.138:1313/docs/us-impact/</guid>
+      <description>&lt;p&gt;Current State&lt;/p&gt;&#xA;&lt;p&gt;Data centers account for 2-3% of total US electricity consumption&#xA;Projected to triple in next 5 years&#xA;AI estimated to use 10-20% of data center electricity today&#xA;Expected to double by 2030&lt;/p&gt;&#xA;&lt;p&gt;Infrastructure Challenges&lt;/p&gt;&#xA;&lt;p&gt;Power grid capacity constraints&#xA;Limited renewable energy availability&#xA;Need for new data center construction&#xA;Competing demands for electricity resources&lt;/p&gt;&#xA;&lt;p&gt;Policy Initiatives&lt;/p&gt;&#xA;&lt;p&gt;AI Environmental Impacts Act of 2024 proposed&#xA;Focus on comprehensive environmental impact studies&#xA;Development of voluntary reporting systems&#xA;Integration with broader climate goals&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workflow Energy Analysis</title>
+      <link>http://192.168.1.138:1313/docs/workflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.138:1313/docs/workflow/</guid>
+      <description>&lt;p&gt;AI Workflow Components&#xA;Training Phase&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;High computational intensity&lt;/li&gt;&#xA;&lt;li&gt;Parallel processing requirements&lt;/li&gt;&#xA;&lt;li&gt;Extended duration operations&lt;/li&gt;&#xA;&lt;li&gt;Multiple training iterations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Inference Phase&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lower but sustained energy usage&lt;/li&gt;&#xA;&lt;li&gt;High volume of operations&lt;/li&gt;&#xA;&lt;li&gt;Continuous deployment needs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Energy Metrics&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Performance per watt&lt;/li&gt;&#xA;&lt;li&gt;Total energy consumption&lt;/li&gt;&#xA;&lt;li&gt;Carbon intensity of operations&lt;/li&gt;&#xA;&lt;li&gt;Efficiency measurements&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Optimization Strategies&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Model compression&lt;/li&gt;&#xA;&lt;li&gt;Efficient architectures&lt;/li&gt;&#xA;&lt;li&gt;Workload scheduling&lt;/li&gt;&#xA;&lt;li&gt;Resource allocation&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Data Center Energy Usage</title>
+      <link>http://192.168.1.138:1313/docs/datacenter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.138:1313/docs/datacenter/</guid>
+      <description>&lt;p&gt;Power Distribution&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;40-50% for computing equipment&lt;/li&gt;&#xA;&lt;li&gt;30-40% for cooling systems&lt;/li&gt;&#xA;&lt;li&gt;Remaining for networking and other infrastructure&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Efficiency Metrics&#xA;Power Usage Effectiveness (PUE)&lt;/p&gt;&#xA;&lt;p&gt;Industry standard metric&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ratio of total energy to computing energy&lt;/li&gt;&#xA;&lt;li&gt;Improved from 2.5 in 2007 to 1.1 in 2022&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;GPU Energy Profile&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Modern GPUs use up to 700W each&lt;/li&gt;&#xA;&lt;li&gt;Next-gen models projected at 1,200W&lt;/li&gt;&#xA;&lt;li&gt;Cluster configurations multiply consumption&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Sustainability Initiatives&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Renewable energy adoption&lt;/li&gt;&#xA;&lt;li&gt;Improved cooling technologies&lt;/li&gt;&#xA;&lt;li&gt;Power management systems&lt;/li&gt;&#xA;&lt;li&gt;Carbon-aware deployment&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
